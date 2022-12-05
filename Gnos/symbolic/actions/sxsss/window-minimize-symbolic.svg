@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="window-minimize-symbolic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="256"
+     inkscape:cx="10.607422"
+     inkscape:cy="11.212891"
+     inkscape:window-width="1478"
+     inkscape:window-height="1305"
+     inkscape:window-x="35"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs8" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 4.5722656,12 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 h 6.8554684 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
+     id="path859" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 4.5722656,10 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 h 6.8554684 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
+     id="path414" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 11.930223,10.52547 a 0.5,0.1416769 0 0 0 -0.5,-0.141677 0.5,0.1416769 0 0 0 -0.5,0.141677 v 1.942523 a 0.5,0.1416769 0 0 0 0.5,0.141677 0.5,0.1416769 0 0 0 0.5,-0.141677 z"
+     id="path416" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 5.0724898,10.551365 a 0.5,0.14171365 0 0 0 -0.5,-0.141714 0.5,0.14171365 0 0 0 -0.5,0.141714 v 1.943026 a 0.5,0.14171365 0 0 0 0.5,0.141714 0.5,0.14171365 0 0 0 0.5,-0.141714 z"
+     id="path418" />
+</svg>
